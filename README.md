@@ -19,6 +19,6 @@ To help other players practice the sounds and animations of Jad I created a prac
 
 Demo: https://www.youtube.com/watch?v=FuPFbeX_UWw
 
-Download: https://downthecrop.xyz/downloads/Jad-Practice.7z
+Download: https://github.com/downthecrop/Jad-Practice/releases
 
 Forum post: https://www.rune-server.ee/runescape-development/rs2-server/downloads/679199-jad-fight-cave-practice-tool-w-sounds.html
