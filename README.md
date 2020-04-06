@@ -5,7 +5,7 @@ Yo.
 
 Thought I should just post this here because it was something that I worked on for a few hours two weeks ago. Might be useful to other people that had or are having difficulties figuring out Fight Caves.
 
-![](https://downthecrop.xyz/blog/wp-content/uploads/2019/11/jad-simulator-practice-tool-screenshot-working-2019-1024x650.png)
+[![Jad Simulator Practice Tool for Old School RuneScape.](https://downthecrop.xyz/blog/wp-content/uploads/2019/11/jad-simulator-practice-tool-screenshot-working-2019-1024x650.png)](https://www.youtube.com/watch?v=FuPFbeX_UWw)
 
 OSRS Jad Simulator Practice Tool Download Preview Waves
 Jad Simulator Practice Tool for Old School RuneScape. Watch my demo video here
