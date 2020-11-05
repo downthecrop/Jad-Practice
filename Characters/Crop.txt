@@ -1,0 +1,361 @@
+[ACCOUNT]
+character-username = Crop
+character-password = 827ccb0eea8a706c4c34a16891f84e7b
+
+[CHARACTER]
+character-rights = 3
+character-rights-secondary = 0	3
+character-mac-address = 4C-CC-6A-80-09-EE
+character-ip-address = 127.0.0.1
+revert-option = 
+mode = REGULAR
+tutorial-stage = END
+character-height = 0
+character-hp = 99
+play-time = 12444
+last-clan = 
+character-specRestore = 0
+character-posx = 2445
+character-posy = 5180
+bank-pin = 
+bank-pin-cancellation = false
+bank-pin-unlock-delay = 0
+placeholders = false
+newStarter = false
+bank-pin-cancellation-delay = -1
+dailyTaskDate = 0
+totalDailyDone = 0
+currentTask = 
+completedDailyTask = false
+playerChoice = 
+dailyEnabled = false
+show-drop-warning = false
+hourly-box-toggle = true
+fractured-crystal-toggle = true
+accept-aid = false
+did-you-know = true
+lootvalue = 0
+raidPoints = 0
+maRound = 0
+raidCount = 0
+experience-counter = 97322
+character-title-updated = 
+removed-slayer-tasks = 			
+last-incentive = 0
+rfd-round = 0
+run-energy = 100
+character-historyItems = 0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+character-historyItemsN = 0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+character-historyPrice = 0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+lastLoginDate = 0
+has-npc = false
+summonId = 0
+startPack = true
+crystalDrop = false
+setPin = false
+slayer-helmet = false
+slayer-imbued-helmet = false
+bigger-boss-tasks = false
+cerberus-route = false
+superior-slayer = false
+slayer-tasks-completed = 0
+claimedReward = false
+dragonfire-shield-charge = 0
+rfd-gloves = 0
+wave-id = 0
+wave-type = 0
+wave-info = 1	0	0
+master-clue-reqs = 0	0	0	0
+counters = 0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+max-cape = false	false	false	false	false
+zulrah-best-time = 0
+toxic-staff = 0
+toxic-pipe-ammo = 5641
+toxic-pipe-amount = 16377
+toxic-pipe-charge = 16377
+serpentine-helm = 0
+trident-of-the-seas = 0
+trident-of-the-swamp = 0
+arclight-charge = 0
+slayerPoints = 0
+crystal-bow-shots = 0
+skull-timer = -1
+magic-book = 0
+ahrim = false
+dharok = false
+guthan = false
+karil = false
+torag = false
+verac = false
+barrows-final-brother = Torag
+barrows-monsters-killcount = 0
+barrows-completed = false
+special-amount = 10.0
+prayer-amount = 0.4245614035087993
+KC =0
+DC =0
+total-hunter-kills = 0
+total-rogue-kills = 0
+target-time-delay = 0
+bh-penalties = 0
+bh-bounties = 0
+statistics-visible = true
+spell-accessible = false
+zerkAmount = 
+pkp = 0
+donP =0
+donA =0
+prestige-points = 0
+votePoints = 0
+bloodPoints = 0
+achievement-points = 0
+achievement-items = -1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1
+xpLock = false
+teleblock-length = 0
+VarrockClaimedDiaries = 
+ArdougneClaimedDiaries = 
+DesertClaimedDiaries = 
+FaladorClaimedDiaries = 
+FremennikClaimedDiaries = 
+KandarinClaimedDiaries = 
+KaramjaClaimedDiaries = 
+LumbridgeClaimedDiaries = 
+MorytaniaClaimedDiaries = 
+WesternClaimedDiaries = 
+WildernessClaimedDiaries = 
+diaries = 
+partialDiaries = 
+pc-points = 0
+total-raids = 0
+killStreak = 0
+bonus-end = 0
+jail-end = 0
+mute-end = 0
+marketmute-end = 0
+last-yell = 0
+splitChat = false
+slayer-master = 0
+consecutive-tasks = 0
+mage-arena-points = 0
+shayzien-assault-points = 0
+autoRet = 0
+flagged = false
+keepTitle = false
+killTitle = false
+wave = 0
+gwkc = 0
+fightMode = 0
+privatechat = 0
+void = 0	0	0	0	0
+quickprayer = false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	true	false	false	false	false	false	false	false	false	false	false	false	
+pouch-rune = 0	0	0
+pouch-pure = 0	0	0
+crabsKilled = 0
+farming-poison-berry = 0
+herb-patch 0 = 0	0	0	0	0
+herb-patch 1 = 0	0	0	0	0
+herb-patch 2 = 0	0	0	0	0
+herb-patch 3 = 0	0	0	0	0
+herb-patch 4 = 0	0	0	0	0
+herb-patch 5 = 0	0	0	0	0
+herb-patch 6 = 0	0	0	0	0
+herb-patch 7 = 0	0	0	0	0
+compostBin = 0
+halloweenOrderGiven = 0	0	0	0	0	0	0	0	0	0
+halloweenOrderChosen = 0	0	0	0	0	0	0	0	0	0
+halloweenOrderNumber = 0
+district-levels = 0	0	0	0	0	0	0	0
+inDistrict = false
+safeBoxSlots = 15
+lost-items = 
+lost-items-cerberus = 
+lost-items-skotizo = 
+
+[EQUIPMENT]
+character-equip = 0	3749	1	
+character-equip = 1	10499	1	
+character-equip = 2	1712	1	
+character-equip = 3	12926	1	
+character-equip = 4	10386	1	
+character-equip = 5	-1	1	
+character-equip = 6	-1	0	
+character-equip = 7	10388	1	
+character-equip = 8	-1	0	
+character-equip = 9	10384	1	
+character-equip = 10	6328	1	
+character-equip = 11	-1	0	
+character-equip = 12	-1	1	
+character-equip = 13	9144	1000	
+
+[LOOK]
+character-look = 0	0
+character-look = 1	0
+character-look = 2	18
+character-look = 3	26
+character-look = 4	33
+character-look = 5	36
+character-look = 6	42
+character-look = 7	10
+character-look = 8	0
+character-look = 9	0
+character-look = 10	0
+character-look = 11	0
+character-look = 12	0
+
+[SKILLS]
+character-skill = 0	99	13085432	false	0
+character-skill = 1	99	13034432	false	0
+character-skill = 2	99	13034432	false	0
+character-skill = 3	99	13131720	false	0
+character-skill = 4	99	13275432	false	0
+character-skill = 5	99	13034432	false	0
+character-skill = 6	99	13034432	false	0
+character-skill = 7	99	13034432	false	0
+character-skill = 8	99	13034432	false	0
+character-skill = 9	99	13034432	false	0
+character-skill = 10	99	13034432	false	0
+character-skill = 11	99	13034432	false	0
+character-skill = 12	99	13034432	false	0
+character-skill = 13	99	13034432	false	0
+character-skill = 14	99	13034432	false	0
+character-skill = 15	99	13034432	false	0
+character-skill = 16	99	13034432	false	0
+character-skill = 17	99	13034432	false	0
+character-skill = 18	99	13034432	false	0
+character-skill = 19	99	13034432	false	0
+character-skill = 20	99	13034432	false	0
+character-skill = 21	99	13034432	false	0
+character-skill = 22	99	13034436	false	0
+character-skill = 23	99	13034436	false	0
+character-skill = 24	99	13034436	false	0
+
+[ITEMS]
+character-item = 0	2445	1
+character-item = 1	2445	1
+character-item = 2	3025	1
+character-item = 3	3025	1
+character-item = 4	3025	1
+character-item = 5	3025	1
+character-item = 6	3025	1
+character-item = 7	3025	1
+character-item = 8	3025	1
+character-item = 9	3025	1
+character-item = 10	3025	1
+character-item = 11	3025	1
+character-item = 12	3025	1
+character-item = 13	3025	1
+character-item = 14	3025	1
+character-item = 15	3025	1
+character-item = 16	3025	1
+character-item = 17	3025	1
+character-item = 18	3025	1
+character-item = 19	3025	1
+character-item = 20	6686	1
+character-item = 21	6686	1
+character-item = 22	6686	1
+character-item = 23	6686	1
+character-item = 24	6686	1
+character-item = 25	6686	1
+character-item = 26	6686	1
+character-item = 27	6686	1
+
+[RECHARGEITEMS]
+item = 	0	3	2018-09-08 19:23:08
+item = 	13120	2	2018-09-08 19:23:08
+item = 	1	3	2018-09-08 19:23:08
+item = 	2	150	2018-09-08 19:23:08
+item = 	13125	2	2018-09-08 19:23:08
+item = 	13126	3	2018-09-08 19:23:08
+item = 	13127	4	2018-09-08 19:23:08
+item = 	13128	3	2018-09-08 19:23:08
+item = 	13143	1	2018-09-08 19:23:08
+item = 	13111	5	2018-09-08 19:23:08
+item = 	13144	1	2018-09-08 19:23:08
+item = 	13117	1	2018-09-08 19:23:08
+item = 	13118	1	2018-09-08 19:23:08
+item = 	13119	1	2018-09-08 19:23:08
+
+[BANK]
+bank-tab = 0	6686	192
+bank-tab = 0	3025	182
+bank-tab = 0	170	197
+bank-tab = 0	386	200
+bank-tab = 0	1334	1
+bank-tab = 0	9186	1
+bank-tab = 0	996	5138650
+bank-tab = 0	5642	83617
+bank-tab = 0	12935	83617
+bank-tab = 0	6571	1
+bank-tab = 0	6530	11592
+
+
+[LOOTBAG]
+
+[RUNEPOUCH]
+
+[HERBSACK]
+
+[GEMBAG]
+
+[SAFEBOX]
+
+[FRIENDS]
+
+
+[HOLIDAY-EVENTS]
+
+[DEGRADEABLES]
+claim-state = false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false
+
+
+[ACHIEVEMENTS-TIER-1]
+pvmer_i = 1	false
+boss_hunter_i = 1	false
+jad_task = 1	false
+
+
+[ACHIEVEMENTS-TIER-2]
+pvmer_ii = 1	false
+boss_hunter_ii = 1	false
+red_of_fury = 1	false
+
+
+[ACHIEVEMENTS-TIER-3]
+slaughterer = 1	false
+boss_slaughterer = 1	false
+tzhaar = 1	false
+
+[IGNORES]
+
+[PRESETS]
+Names = New slot	New slot	New slot	New slot	New slot	New slot	New slot	New slot	New slot	New slot	
+Inventory#0 = 
+Equipment#0 = 
+Inventory#1 = 
+Equipment#1 = 
+Inventory#2 = 
+Equipment#2 = 
+Inventory#3 = 
+Equipment#3 = 
+Inventory#4 = 
+Equipment#4 = 
+Inventory#5 = 
+Equipment#5 = 
+Inventory#6 = 
+Equipment#6 = 
+Inventory#7 = 
+Equipment#7 = 
+Inventory#8 = 
+Equipment#8 = 
+Inventory#9 = 
+Equipment#9 = 
+
+[KILLSTREAKS]
+
+[TITLES]
+
+[NPC-TRACKER]
+tztok-jad = 1
+
+[EOF]
+

@@ -1,0 +1,6 @@
+experience-amount=27913631
+experience-timer=0
+pc-amount=9454809
+pc-timer=0
+drops-amount=30907374
+drops-timer=0

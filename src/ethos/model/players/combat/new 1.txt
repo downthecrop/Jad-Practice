@@ -1,0 +1,10 @@
+Varrock - Wilderness
+Lumbridge - Minigames
+Falador - Boss
+Camelot - Skilling
+Ardougne - Dungeon
+Watchtower - Low Tier
+Trollheim - Cities
+
+Cerberus cerb = c.createCerberusInstance();
+c.getCerberus().init();
