@@ -1,0 +1,946 @@
+[
+	{
+		"id": 401,
+		"levelRequired": 1,
+		"pointRewards": [ 10, 30, 40, 50, 200, 400, 600 ],
+		"available": [
+			{
+				"names": [ "banshee", "screaming banshee" ],
+				"level": 14,
+				"experience": 22,
+				"minimum": 15,
+				"maximum": 50,
+				"locations": [ "Slayer Tower" ],
+				"teleport": [3438, 3560, 0]
+			},
+			{
+				"names": [ "cave crawler", "chasm crawler" ],
+				"level": 10,
+				"experience": 22,
+				"minimum": 15,
+				"maximum": 50,
+				"locations": [ "Rellekka Slayer Dungeon" ],
+				"teleport": [2788, 9998, 0]
+			},
+			{
+				"names": [ "kalphite worker" ],
+				"level": 10,
+				"experience": 30,
+				"minimum": 15,
+				"maximum": 50,
+				"locations": [ "Kalphite Hive" ],
+				"teleport": [3756, 5856, 0]
+			},
+			{
+				"names": [ "cow" ],
+				"level": 1,
+				"experience": 8,
+				"minimum": 15,
+				"maximum": 50,
+				"locations": [ "Lumbridge" ],
+				"teleport": [3259, 3261, 0]
+			},
+			{
+				"names": [ "crawling hand", "crushing hand" ],
+				"level": 5,
+				"experience": 19,
+				"minimum": 15,
+				"maximum": 50,
+				"locations": [ "Slayer Tower" ],
+				"teleport": [3440, 3572, 0]
+			},
+			{
+				"names": [ "ghost" ],
+				"level": 1,
+				"experience": 8,
+				"minimum": 15,
+				"maximum": 50,
+				"locations": [ "Taverly Dungeon" ],
+				"teleport": [2901, 9849, 0]
+			},
+			{
+				"names": [ "skeleton" ],
+				"level": 1,
+				"experience": 20,
+				"minimum": 15,
+				"maximum": 50,
+				"locations": [ "Taverly Dungeon" ],
+				"teleport": [2884, 9812, 0]
+			},
+			{
+				"names": [ "chaos druid" ],
+				"level": 1,
+				"experience": 13,
+				"minimum": 15,
+				"maximum": 50,
+				"locations": [ "Taverly Dungeon, Edgeville Dungeon (Dangerous)" ],
+				"teleport": [3115, 9929, 0]
+			}
+		]
+	},
+    {
+        "id": 402,
+        "levelRequired": 40,
+        "pointRewards": [ 20, 50, 100, 250, 500, 800, 1000 ],
+        "available": [
+            {
+                "names": [ "banshee", "screaming banshee" ],
+                "level": 15,
+                "experience": 22,
+                "minimum": 15,
+                "maximum": 85,
+				"locations": [ "Slayer Tower 1st floor" ],
+				"teleport": [3438, 3560, 0]
+            },
+			{
+				"names": [ "kalphite soldier" ],
+				"level": 10,
+				"experience": 80,
+				"minimum": 15,
+				"maximum": 50,
+				"locations": [ "Kalphite Hive" ],
+				"teleport": [3751, 5832, 0]
+			},
+            {
+                "names": [ "basilisk", "monstrous basilisk" ],
+                "level": 40,
+                "experience": 75,
+                "minimum": 10,
+                "maximum": 90,
+				"locations": [ "Rellekka Slayer Dungeon" ],
+				"teleport": [2746, 10011, 0]
+            },
+            {
+                "names": [ "ice warrior" ],
+                "level": 1,
+                "experience": 55,
+                "minimum": 10,
+                "maximum": 90,
+				"locations": [ "Asgarnian Ice Dungeon" ],
+				"teleport": [3054, 9578, 0]
+            },
+            {
+                "names": [ "ice giant" ],
+                "level": 1,
+                "experience": 60,
+                "minimum": 10,
+                "maximum": 90,
+				"locations": [ "Asgarnian Ice Dungeon" ],
+				"teleport": [3054, 9578, 0]
+            },
+            {
+                "names": [ "baby blue dragon", "blue dragon" ],
+                "level": 1,
+                "experience": 50,
+                "minimum": 11,
+                "maximum": 65,
+				"locations": [ "Taverley Dungeon" ],
+				"teleport": [2908, 9802, 0]
+            },
+            {
+                "names": [ "bloodveld", "insatiable bloodveld" ],
+                "level": 50,
+                "experience": 120,
+                "minimum": 10,
+                "maximum": 90,
+				"locations": [ "Slayer Tower, God Wars Dungeon" ],
+				"teleport": [3422, 3572, 1]
+            },
+            {
+                "names": [ "bronze dragon" ],
+                "level": 1,
+                "experience": 125,
+                "minimum": 9,
+                "maximum": 75,
+				"locations": [ "Brimhaven Dungeon" ],
+				"teleport": [2730, 9485, 0]
+            },
+            {
+                "names": [ "cave bug" ],
+                "level": 7,
+                "experience": 10,
+                "minimum": 10,
+                "maximum": 75,
+				"locations": [ "Rellekka Slayer Dungeon" ],
+				"teleport": [2777, 10010, 0]
+            },
+            {
+                "names": [ "cave crawler", "chasm crawler" ],
+                "level": 10,
+                "experience": 10,
+                "minimum": 10,
+                "maximum": 90,
+				"locations": [ "Rellekka Slayer Dungeon, Lumbridge Swamp Caves" ],
+				"teleport": [2788, 9998, 0]
+            },
+            {
+                "names": [ "cockatrice", "cockathrice" ],
+                "level": 25,
+                "experience": 37,
+                "minimum": 10,
+                "maximum": 100,
+				"locations": [ "Rellekka Slayer Dungeon" ],
+				"teleport": [2794, 10035, 0]
+            },
+            {
+                "names": [ "cyclops" ],
+                "level": 1,
+                "experience": 100,
+                "minimum": 15,
+                "maximum": 140,
+				"locations": [ "Warriors Guild" ],
+				"teleport": [2847, 3542, 0]
+            },
+            {
+                "names": [ "earth warrior" ],
+                "level": 1,
+                "experience": 54,
+                "minimum": 15,
+                "maximum": 110,
+				"locations": [ "Edgeville Dungeon" ],
+				"teleport": [-1, -1, -1]
+            },
+            {
+                "names": [ "green dragon" ],
+                "level": 1,
+                "experience": 75,
+                "minimum": 10,
+                "maximum": 50,
+				"locations": [ "Wilderness Level 14-24" ],
+				"teleport": [-1, -1, -1]
+            },
+            {
+                "names": [ "elf warrior" ],
+                "level": 1,
+                "experience": 108,
+                "minimum": 20,
+                "maximum": 80,
+				"locations": [ "Lletya" ],
+				"teleport": [2334, 3171, 0]
+            },
+            {
+                "names": [ "hellhound", "cerberus" ],
+                "level": 1,
+                "experience": 116,
+                "minimum": 10,
+                "maximum": 70,
+				"locations": [ "Taverley Dungeon, Wilderness Level 53" ],
+				"teleport": [2853, 9836, 0]
+            },
+            {
+                "names": [ "hill giant" ],
+                "level": 1,
+                "experience": 35,
+                "minimum": 13,
+                "maximum": 60,
+				"locations": [ "Taverley Dungeon, Edgeville Dungeon" ],
+				"teleport": [3117, 9855, 0]
+            },
+            {
+                "names": [ "infernal mage", "malevolent mage" ],
+                "level": 45,
+                "experience": 60,
+                "minimum": 10,
+                "maximum": 55,
+				"locations": [ "Slayer Tower 2nd floor" ],
+				"teleport": [3435, 3570, 1]
+            },
+            {
+                "names": [ "jelly", "warped jelly", "vitreous jelly" ],
+                "level": 52,
+                "experience": 75,
+                "minimum": 8,
+                "maximum": 50,
+				"locations": [ "Rellekka Slayer Dungeon", "Catacombs" ],
+				"teleport": [2704, 10025, 0]
+            },
+            {
+                "names": [ "lesser demon" ],
+                "level": 1,
+                "experience": 79,
+                "minimum": 10,
+                "maximum": 85,
+				"locations": [ "Taverley Dungeon" ],
+				"teleport": [2932, 9808, 0]
+            },
+            {
+                "names": [ "moss giant" ],
+                "level": 1,
+                "experience": 60,
+                "minimum": 10,
+                "maximum": 60,
+				"locations": [ "Varrock Sewer" ],
+				"teleport": [3157, 9903, 0]
+            },
+            {
+                "names": [ "pyrefiend", "flaming pyrelord" ],
+                "level": 30,
+                "experience": 45,
+                "minimum": 15,
+                "maximum": 115,
+				"locations": [ "Rellekka Slayer Dungeon" ],
+				"teleport": [2761, 9997, 0]
+            },
+            {
+                "names": [ "rockslug", "giant rockslug" ],
+                "level": 20,
+                "experience": 27,
+                "minimum": 15,
+                "maximum": 80,
+				"locations": [ "Rellekka Slayer Dungeon, Lumbridge Swamp Caves" ],
+				"teleport": [2763, 10037, 0]
+            }
+    	]
+    },
+   {
+        "id": 405,
+        "levelRequired": 99,
+        "pointRewards": [ 30, 60, 120, 300, 600, 1000, 1500 ],
+        "available": [
+             {
+                "names": [ "abyssal demon", "abyssal sire", "greater abyssal demon" ],
+                "level": 85,
+                "experience": 150,
+                "minimum": 130,
+                "maximum": 248,
+                "locations": [ "slayer tower", "stronghold slayer cave", "donator zone" ],
+                "teleport": [3420, 3568, 2]
+            },
+            {
+                "names": [ "kalphite guardian" ],
+                "level": 10,
+                "experience": 135,
+                "minimum": 70,
+                "maximum": 110,
+                "locations": [ "Kalphite Hive" ],
+                "teleport": [3510, 9490, 2]
+            },
+            {
+                "names": [ "aviansie", "kree arra" ],
+                "level": 1,
+                "experience": 139,
+                "minimum": 90,
+                "maximum": 160,
+                "locations": [ "god wars dungeon" ],
+                "teleport": [2865, 5313, 2]
+            },
+            {
+                "names": [ "black demon", "demonic gorilla" ],
+                "level": 1,
+                "experience": 175,
+                "minimum": 75,
+                "maximum": 135,
+                "locations": [ "taverley dungeon", "edgeville dungeon", "brimhaven dungeon" ],
+                "teleport": [2707, 9484, 0]
+            },
+            {
+                "names": [ "blue dragon", "baby blue dragon" ],
+                "level": 1,
+                "experience": 107,
+                "minimum": 60,
+                "maximum": 120,
+                "locations": [ "taverley dungeon" ],
+                "teleport": [2903, 9798, 0]
+            },
+            {
+                "names": [ "black dragon", "king black dragon" ],
+                "level": 1,
+                "experience": 227,
+                "minimum": 10,
+                "maximum": 40,
+                "locations": [ "taverley dungeon" ],
+                "teleport": [2835, 9821, 0]
+            },
+            {
+                "names": [ "aberrant spectre ", "deviant spectre" ],
+                "level": 60,
+                "experience": 210,
+                "minimum": 10,
+                "maximum": 40,
+                "locations": [ "stronghold slayer cave " ],
+                "teleport": [2429, 9825, 0]
+            },
+            {
+                "names": [ "bloodveld", "insatiable bloodveld" ],
+                "level": 50,
+                "experience": 134,
+                "minimum": 80,
+                "maximum": 140,
+                "locations": [ "slayer tower", "god wars dungeon", "stronghold slayer cave" ],
+                "teleport": [3422, 3572, 1]
+            },
+			{
+                "names": [ "mutated bloodveld", "insatiable mutated bloodveld" ],
+                "level": 50,
+                "experience": 170,
+                "minimum": 70,
+                "maximum": 130,
+				"locations": [ "Catacombs" ],
+				"teleport": [1678, 10075, 0]
+            },
+            {
+                "names": [ "cave horror", "cave abomination" ],
+                "level": 58,
+                "experience": 55,
+                "minimum": 80,
+                "maximum": 130,
+                "locations": [ "Rellekka slayer dungeon", "donator zone" ],
+                "teleport": [2800, 10021, 0]
+            },
+            {
+                "names": [ "cave kraken", "kraken" ],
+                "level": 87,
+                "experience": 90,
+                "minimum": 50,
+                "maximum": 129,
+                "locations": [ "Stronghold slayer dungeon" ],
+                "teleport": [2461, 9814, 0]
+            },
+            {
+                "names": [ "dagannoth", "dagannoth rex", "dagannoth prime", "dagannoth supreme", "dagannoth mother" ],
+                "level": 1,
+                "experience": 90,
+                "minimum": 100,
+                "maximum": 199,
+                "locations": [ "dagannoth cave" ],
+                "teleport": [1908, 4364, 0]
+            },
+            {
+                "names": [ "dark beast", "night beast" ],
+                "level": 90,
+                "experience": 220,
+                "minimum": 10,
+                "maximum": 50,
+                "locations": [ "taverley dungeon", "donator zone" ],
+                "teleport": [2908, 9694, 0]
+            },
+            {
+                "names": [ "dust devil", "choke devil" ],
+                "level": 65,
+                "experience": 105,
+                "minimum": 80,
+                "maximum": 140,
+                "locations": [ "slayer tower" ],
+                "teleport": [3422, 3536, 1]
+            },
+            {
+                "names": [ "fire giant" ],
+                "level": 1,
+                "experience": 111,
+                "minimum": 80,
+                "maximum": 140,
+                "locations": [ "brimhaven dungeon", "stronghold slayer cave" ],
+                "teleport": [2645, 9490, 0]
+            },
+            {
+                "names": [ "gargoyle", "marble gargoyle" ],
+                "level": 75,
+                "experience": 105,
+                "minimum": 80,
+                "maximum": 140,
+                "locations": [ "slayer tower" ],
+                "teleport": [3442, 3545, 2]
+            },
+            {
+                "names": [ "greater demon", "kril tsutsaroth" ],
+                "level": 1,
+                "experience": 87,
+                "minimum": 80,
+                "maximum": 140,
+                "locations": [ "brimhaven dungeon", "greater demon zone (wildy)", "stronghold slayer cave" ],
+                "teleport": [2634, 9503, 2]
+            },
+            {
+                "names": [ "hellhound", "cerberus" ],
+                "level": 1,
+                "experience": 116,
+                "minimum": 139,
+                "maximum": 239,
+                "locations": [ "taverley dungeon", "stronghold slayer cave" ],
+                "teleport": [2856, 9839, 0]
+            },
+            {
+				"names": [ "elf warrior" ],
+				"level": 1,
+				"experience": 108,
+				"minimum": 30,
+				"maximum": 80,
+                "locations": [ "Lletya" ],
+                "teleport": [2341, 3172, 0]
+			},
+            {
+                "names": [ "iron dragon" ],
+                "level": 1,
+                "experience": 173,
+                "minimum": 30,
+                "maximum": 50,
+                "locations": [ "brimhaven dungeon", "stronghold slayer cave" ],
+                "teleport": [2742, 9431, 0]
+            },
+            {
+                "names": [ "kurask", "king kurask" ],
+                "level": 70,
+                "experience": 97,
+                "minimum": 80,
+                "maximum": 140,
+                "locations": [ "freminnik slayer dungeon", "donator zone" ],
+                "teleport": [2699, 9999, 0]
+            },
+            {
+                "names": [ "mithril dragon" ],
+                "level": 1,
+                "experience": 273,
+                "minimum": 5,
+                "maximum": 35,
+                "locations": [ "ancient cavern" ],
+                "teleport": [1745, 5339, 0]
+            },
+            {
+                "names": [ "nechryael", "nechryarch" ],
+                "level": 80,
+                "experience": 105,
+                "minimum": 100,
+                "maximum": 150,
+                "locations": [ "slayer tower", "stronghold slayer cave", "donator zone" ],
+                "teleport": [3442, 3565, 2]
+            },
+            {
+                "names": [ "smoke devil", "thermonuclear smoke devil", "nuclear smoke devil" ],
+                "level": 93,
+                "experience": 160,
+                "minimum": 125,
+                "maximum": 180,
+                "locations": [ "Smoke Devil Teleport" ],
+                "teleport": [2404, 9415, 0]
+            },
+            {
+                "names": [ "steel dragon" ],
+                "level": 1,
+                "experience": 220,
+                "minimum": 7,
+                "maximum": 37,
+                "locations": [ "brimhaven dungeon" ],
+                "teleport": [2711, 9432, 0]
+            },
+            {
+                "names": [ "spiritual mage", "spiritual ranger", "spiritual warrior" ],
+                "level": 83,
+                "experience": 106,
+                "minimum": 60,
+                "maximum": 110,
+                "locations": [ "god wars dungeon" ],
+                "teleport": [2888, 5310, 2]
+            },
+            {
+                "names": [ "skeletal wyvern" ],
+                "level": 72,
+                "experience": 210,
+                "minimum": 40,
+                "maximum": 75,
+                "locations": [ "Asgarnian ice dungeon" ],
+                "teleport": [3056, 9563, 0]
+            },
+			{
+                "names": [ "twisted banshee", "screaming twisted banshee" ],
+                "level": 15,
+                "experience": 100,
+                "minimum": 75,
+                "maximum": 115,
+				"locations": [ "Catacombs" ],
+				"teleport": [3438, 3560, 0]
+            },
+			{
+                "names": [ "warped jelly", "vitreous warped jelly" ],
+                "level": 52,
+                "experience": 140,
+                "minimum": 65,
+                "maximum": 90,
+				"locations": [ "Catacombs" ],
+				"teleport": [2704, 10025, 0]
+            },
+      {
+        "names": [ "lava dragon" ],
+        "level": 1,
+        "experience": 200,
+        "minimum": 5,
+        "maximum": 25,
+        "locations": [ "wilderness" ],
+        "teleport": [-1, -1, -1]
+      }
+        ]
+    },
+    {
+        "id": 6797,
+        "levelRequired": 101,
+        "pointRewards": [ 40, 80, 160, 350, 620, 1100, 1600 ],
+        "available": [
+             {
+                "names": [ "kree arra" ],
+                "level": 1,
+                "experience": 300,
+                "minimum": 5,
+                "maximum": 10,
+                "locations": [ "godwars dungeon" ],
+                "teleport": [-1, -1, -1]
+            },
+            {
+                "names": [ "general graardor" ],
+                "level": 1,
+                "experience": 300,
+                "minimum": 5,
+                "maximum": 10,
+                "locations": [ "godwars dungeon" ],
+                "teleport": [-1, -1, -1]
+            },
+            {
+                "names": [ "kril tsutsaroth" ],
+                "level": 1,
+                "experience": 300,
+                "minimum": 5,
+                "maximum": 10,
+                "locations": [ "godwars dungeon" ],
+                "teleport": [-1, -1, -1]
+            },
+            {
+                "names": [ "commander zilyana" ],
+                "level": 1,
+                "experience": 300,
+                "minimum": 5,
+                "maximum": 10,
+                "locations": [ "wilderness" ],
+                "teleport": [-1, -1, -1]
+            },
+            {
+                "names": [ "venenatis" ],
+                "level": 1,
+                "experience": 320,
+                "minimum": 5,
+                "maximum": 10,
+                "locations": [ "wilderness" ],
+                "teleport": [-1, -1, -1]
+            },
+			{
+                "names": [ "thermonuclear smoke devil" ],
+                "level": 93,
+                "experience": 240,
+                "minimum": 5,
+                "maximum": 10,
+                "locations": [ "Smoke Devil Teleport[Bosses]" ],
+                "teleport": [-1, -1, -1]
+            },
+            {
+                "names": [ "vetion" ],
+                "level": 1,
+                "experience": 320,
+                "minimum": 5,
+                "maximum": 10,
+                "locations": [ "wilderness" ],
+                "teleport": [-1, -1, -1]
+            },
+            {
+                "names": [ "chaos elemental" ],
+                "level": 1,
+                "experience": 300,
+                "minimum": 5,
+                "maximum": 10,
+                "locations": [ "wilderness" ],
+                "teleport": [-1, -1, -1]
+            },
+            {
+                "names": [ "king black dragon" ],
+                "level": 1,
+                "experience": 250,
+                "minimum": 5,
+                "maximum": 10,
+                "locations": [ "wilderness" ],
+                "teleport": [-1, -1, -1]
+            },
+            {
+                "names": [ "barrelchest" ],
+                "level": 1,
+                "experience": 250,
+                "minimum": 5,
+                "maximum": 10,
+                "locations": [ "wilderness" ],
+                "teleport": [-1, -1, -1]
+            },
+            {
+                "names": [ "giant mole" ],
+                "level": 1,
+                "experience": 200,
+                "minimum": 5,
+                "maximum": 10,
+                "locations": [ "wilderness" ],
+                "teleport": [-1, -1, -1]
+            },
+            {
+                "names": [ "kraken" ],
+                "level": 1,
+                "experience": 280,
+                "minimum": 5,
+                "maximum": 10,
+                "locations": [ "wilderness" ],
+                "teleport": [-1, -1, -1]
+            },
+            {
+                "names": [ "callisto" ],
+                "level": 1,
+                "experience": 350,
+                "minimum": 5,
+                "maximum": 10,
+                "locations": [ "wilderness" ],
+                "teleport": [-1, -1, -1]
+            },
+            {
+                "names": [ "zulrah" ],
+                "level": 1,
+                "experience": 500,
+                "minimum": 5,
+                "maximum": 10,
+                "locations": [ "Zul-Areth" ],
+                "teleport": [-1, -1, -1]
+            },
+            {
+                "names": [ "giant mole" ],
+                "level": 1,
+                "experience": 200,
+                "minimum": 5,
+                "maximum": 15,
+                "locations": [ "wilderness" ],
+                "teleport": [-1, -1, -1]
+            },
+            {
+                "names": [ "scorpia" ],
+                "level": 1,
+                "experience": 335,
+                "minimum": 5,
+                "maximum": 10,
+                "locations": [ "wilderness" ],
+                "teleport": [-1, -1, -1]
+            },
+            {
+                "names": [ "crazy archaeologist" ],
+                "level": 1,
+                "experience": 250,
+                "minimum": 5,
+                "maximum": 10,
+                "locations": [ "wilderness" ],
+                "teleport": [-1, -1, -1]
+            },
+            {
+                "names": [ "chaos fanatic" ],
+                "level": 1,
+                "experience": 250,
+                "minimum": 5,
+                "maximum": 10,
+                "locations": [ "wilderness" ],
+                "teleport": [-1, -1, -1]
+            },
+            {
+                "names": [ "cerberus" ],
+                "level": 91,
+                "experience": 450,
+                "minimum": 5,
+                "maximum": 10,
+                "locations": [ "cerberus lair" ],
+                "teleport": [-1, -1, -1]
+            },
+            {
+                "names": [ "abyssal sire" ],
+                "level": 85,
+                "experience": 450,
+                "minimum": 5,
+                "maximum": 10,
+                "locations": [ "the sire" ],
+                "teleport": [-1, -1, -1]
+            },
+            {
+                "names": [ "lizardman shaman" ],
+                "level": 1,
+                "experience": 250,
+                "minimum": 5,
+                "maximum": 10,
+                "locations": [ "lizardman canyon" ],
+                "teleport": [-1, -1, -1]
+            },
+            {
+                "names": [ "demonic gorilla" ],
+                "level": 1,
+                "experience": 250,
+                "minimum": 5,
+                "maximum": 10,
+                "locations": [ "demonic gorilla dungeon" ],
+                "teleport": [-1, -1, -1]
+            },
+            {
+                "names": [ "kalphite queen" ],
+                "level": 1,
+                "experience": 280,
+                "minimum": 5,
+                "maximum": 10,
+                "locations": [ "desert kalphite hive" ],
+                "teleport": [-1, -1, -1]
+            },
+            {
+                "names": [ "dagannoth rex", "dagannoth prime", "dagannoth supreme", "dagannoth mother" ],
+                "level": 1,
+                "experience": 225,
+                "minimum": 7,
+                "maximum": 20,
+                "locations": [ "dagannoth cave" ],
+                "teleport": [1908, 4364, 0]
+            },
+            {
+                "names": [ "tztok-jad" ],
+                "level": 1,
+                "experience": 1750,
+                "minimum": 1,
+                "maximum": 3,
+                "locations": [ "fightcaves" ],
+                "teleport": [-1, -1, -1]
+            }
+		]
+ 	},
+	{
+        "id": 7663,
+        "levelRequired": 100,
+        "pointRewards": [ 50, 100, 200, 400, 700, 1200, 1700 ],
+        "available": [
+            {
+                "names": [ "skeletal wyvern" ],
+                "level": 72,
+                "experience": 190,
+                "minimum": 55,
+                "maximum": 95,
+				"locations": [ "West of Wildy Agility" ],
+				"teleport": [-1, -1, -1]
+            },
+			{
+                "names": [ "abyssal demon" ],
+                "level": 85,
+                "experience": 130,
+                "minimum": 55,
+                "maximum": 95,
+				"locations": [ "South of Wildy Resource" ],
+				"teleport": [-1, -1, -1]
+            },
+			{
+                "names": [ "lava dragon" ],
+                "level": 1,
+                "experience": 228,
+                "minimum": 55,
+                "maximum": 95,
+				"locations": [ "Lava Dragon Teleport" ],
+				"teleport": [-1, -1, -1]
+            },
+			{
+                "names": [ "green dragon" ],
+                "level": 1,
+                "experience": 65,
+                "minimum": 55,
+                "maximum": 95,
+				"locations": [ "East and West Teleports" ],
+				"teleport": [-1, -1, -1]
+            },
+			{
+                "names": [ "skeleton" ],
+                "level": 1,
+                "experience": 67,
+                "minimum": 55,
+                "maximum": 95,
+				"locations": [ "South of Dark Warriors Castle" ],
+				"teleport": [-1, -1, -1]
+            },
+			{
+                "names": [ "lesser demon" ],
+                "level": 1,
+                "experience": 69,
+                "minimum": 55,
+                "maximum": 95,
+				"locations": [ "Demonic Ruins" ],
+				"teleport": [-1, -1, -1]
+            },
+			{
+                "names": [ "black demon" ],
+                "level": 1,
+                "experience": 137,
+                "minimum": 55,
+                "maximum": 95,
+				"locations": [ "Edgeville Dungeon" ],
+				"teleport": [-1, -1, -1]
+            },
+			{
+                "names": [ "ice warrior" ],
+                "level": 1,
+                "experience": 49,
+                "minimum": 55,
+                "maximum": 95,
+				"locations": [ "South West of Wildy Agility" ],
+				"teleport": [-1, -1, -1]
+            },
+			{
+                "names": [ "ankou" ],
+                "level": 1,
+                "experience": 50,
+                "minimum": 55,
+                "maximum": 95,
+				"locations": [ "Forgotten Cemetary" ],
+				"teleport": [-1, -1, -1]
+            },
+			{
+                "names": [ "ent" ],
+                "level": 1,
+                "experience": 55,
+                "minimum": 55,
+                "maximum": 95,
+				"locations": [ "East of Chaos Altar" ],
+				"teleport": [-1, -1, -1]
+            },
+			{
+                "names": [ "fire giant" ],
+                "level": 1,
+                "experience": 91,
+                "minimum": 55,
+                "maximum": 95,
+				"locations": [ "Wilderness Volcano" ],
+				"teleport": [-1, -1, -1]
+            },
+			{
+                "names": [ "hellhound" ],
+                "level": 1,
+                "experience": 96,
+                "minimum": 55,
+                "maximum": 95,
+				"locations": [ "North East of Wildy Resource" ],
+				"teleport": [-1, -1, -1]
+            },
+			{
+                "names": [ "earth warrior" ],
+                "level": 1,
+                "experience": 44,
+                "minimum": 55,
+                "maximum": 95,
+				"locations": [ "Dwarf Cave" ],
+				"teleport": [-1, -1, -1]
+            },
+			{
+                "names": [ "mammoth" ],
+                "level": 1,
+                "experience": 120,
+                "minimum": 55,
+                "maximum": 95,
+				"locations": [ "East of Wildy Agility Bridge" ],
+				"teleport": [-1, -1, -1]
+            },
+			{
+                "names": [ "dark warrior" ],
+                "level": 1,
+                "experience": 162,
+                "minimum": 55,
+                "maximum": 95,
+				"locations": [ "Dark Warriors Fortress" ],
+				"teleport": [-1, -1, -1]
+            }
+		]
+	}
+]

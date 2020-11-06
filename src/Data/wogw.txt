@@ -1,0 +1,6 @@
+experience-amount=0
+experience-timer=0
+pc-amount=0
+pc-timer=0
+drops-amount=0
+drops-timer=0

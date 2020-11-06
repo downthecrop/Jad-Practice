@@ -1,0 +1,2257 @@
+[
+	{
+		"item_id": 554,
+		"min_amount": 20,
+		"max_amount": 150,
+		"reward_level": "shared",
+		"rarity": "common"
+	},
+	{
+		"item_id": 555,
+		"min_amount": 20,
+		"max_amount": 150,
+		"reward_level": "shared",
+		"rarity": "common"
+	},
+	{
+		"item_id": 556,
+		"min_amount": 20,
+		"max_amount": 150,
+		"reward_level": "shared",
+		"rarity": "common"
+	},
+	{
+		"item_id": 557,
+		"min_amount": 20,
+		"max_amount": 150,
+		"reward_level": "shared",
+		"rarity": "common"
+	},
+	{
+		"item_id": 558,
+		"min_amount": 20,
+		"max_amount": 150,
+		"reward_level": "shared",
+		"rarity": "common"
+	},
+	{
+		"item_id": 559,
+		"min_amount": 20,
+		"max_amount": 150,
+		"reward_level": "shared",
+		"rarity": "common"
+	},
+	{
+		"item_id": 561,
+		"min_amount": 5,
+		"max_amount": 20,
+		"reward_level": "shared",
+		"rarity": "common"
+	},
+	{
+		"item_id": 563,
+		"min_amount": 5,
+		"max_amount": 20,
+		"reward_level": "shared",
+		"rarity": "common"
+	},
+	{
+		"item_id": 995,
+		"min_amount": 2500,
+		"max_amount": 50000,
+		"reward_level": "shared",
+		"rarity": "common"
+	},
+	{
+		"item_id": 12247,
+		"min_amount": 1,
+		"max_amount": 1,
+		"reward_level": "shared",
+		"rarity": "uncommon"
+	},
+	{
+		"item_id": 12253,
+		"min_amount": 1,
+		"max_amount": 1,
+		"reward_level": "shared",
+		"rarity": "uncommon"
+	},
+	{
+		"item_id": 12255,
+		"min_amount": 1,
+		"max_amount": 1,
+		"reward_level": "shared",
+		"rarity": "uncommon"
+	},
+	{
+		"item_id": 12257,
+		"min_amount": 1,
+		"max_amount": 1,
+		"reward_level": "shared",
+		"rarity": "uncommon"
+	},
+	{
+		"item_id": 12259,
+		"min_amount": 1,
+		"max_amount": 1,
+		"reward_level": "shared",
+		"rarity": "uncommon"
+	},
+	{
+		"item_id": 12261,
+		"min_amount": 1,
+		"max_amount": 1,
+		"reward_level": "shared",
+		"rarity": "uncommon"
+	},
+	{
+		"item_id": 12263,
+		"min_amount": 1,
+		"max_amount": 1,
+		"reward_level": "shared",
+		"rarity": "uncommon"
+	},	{
+		"item_id": 12265,
+		"min_amount": 1,
+		"max_amount": 1,
+		"reward_level": "shared",
+		"rarity": "uncommon"
+	},	{
+		"item_id": 12267,
+		"min_amount": 1,
+		"max_amount": 1,
+		"reward_level": "shared",
+		"rarity": "uncommon"
+	},	{
+		"item_id": 12269,
+		"min_amount": 1,
+		"max_amount": 1,
+		"reward_level": "shared",
+		"rarity": "uncommon"
+	},	{
+		"item_id": 12271,
+		"min_amount": 1,
+		"max_amount": 1,
+		"reward_level": "shared",
+		"rarity": "uncommon"
+	},	{
+		"item_id": 12273,
+		"min_amount": 1,
+		"max_amount": 1,
+		"reward_level": "shared",
+		"rarity": "uncommon"
+	},	{
+		"item_id": 12275,
+		"min_amount": 1,
+		"max_amount": 1,
+		"reward_level": "shared",
+		"rarity": "uncommon"
+	},
+	{
+		"item_id": 3827,
+		"min_amount": 1,
+		"max_amount": 1,
+		"reward_level": "shared",
+		"rarity": "uncommon"
+	},
+	{
+		"item_id": 3828,
+		"min_amount": 1,
+		"max_amount": 1,
+		"reward_level": "shared",
+		"rarity": "uncommon"
+	},
+	{
+		"item_id": 3829,
+		"min_amount": 1,
+		"max_amount": 1,
+		"reward_level": "shared",
+		"rarity": "uncommon"
+	},
+	{
+		"item_id": 3830,
+		"min_amount": 1,
+		"max_amount": 1,
+		"reward_level": "shared",
+		"rarity": "uncommon"
+	},
+	{
+		"item_id": 3831,
+		"min_amount": 1,
+		"max_amount": 1,
+		"reward_level": "shared",
+		"rarity": "uncommon"
+	},
+	{
+		"item_id": 3832,
+		"min_amount": 1,
+		"max_amount": 1,
+		"reward_level": "shared",
+		"rarity": "uncommon"
+	},
+	{
+		"item_id": 3833,
+		"min_amount": 1,
+		"max_amount": 1,
+		"reward_level": "shared",
+		"rarity": "uncommon"
+	},
+	{
+		"item_id": 3834,
+		"min_amount": 1,
+		"max_amount": 1,
+		"reward_level": "shared",
+		"rarity": "uncommon"
+	},
+	{
+		"item_id": 3835,
+		"min_amount": 1,
+		"max_amount": 1,
+		"reward_level": "shared",
+		"rarity": "uncommon"
+	},
+	{
+		"item_id": 3836,
+		"min_amount": 1,
+		"max_amount": 1,
+		"reward_level": "shared",
+		"rarity": "uncommon"
+	},
+	{
+		"item_id": 3837,
+		"min_amount": 1,
+		"max_amount": 1,
+		"reward_level": "shared",
+		"rarity": "uncommon"
+	},
+	{
+		"item_id": 3838,
+		"min_amount": 1,
+		"max_amount": 1,
+		"reward_level": "shared",
+		"rarity": "uncommon"
+	},
+	{
+		"item_id": 10476,
+		"min_amount": 2,
+		"max_amount": 27,
+		"reward_level": "shared",
+		"rarity": "uncommon"
+	},
+	{
+		"item_id": 334,
+		"min_amount": 5,
+		"max_amount": 20,
+		"reward_level": "easy",
+		"rarity": "common"
+	},
+	{
+		"item_id": 380,
+		"min_amount": 5,
+		"max_amount": 20,
+		"reward_level": "easy",
+		"rarity": "common"
+	},
+	{
+		"item_id": 886,
+		"min_amount": 50,
+		"max_amount": 150,
+		"reward_level": "easy",
+		"rarity": "common"
+	},
+	{
+		"item_id": 1077,
+		"min_amount": 1,
+		"max_amount": 1,
+		"reward_level": "easy",
+		"rarity": "common"
+	},
+	{
+		"item_id": 1089,
+		"min_amount": 1,
+		"max_amount": 1,
+		"reward_level": "easy",
+		"rarity": "common"
+	},
+	{
+		"item_id": 1107,
+		"min_amount": 1,
+		"max_amount": 1,
+		"reward_level": "easy",
+		"rarity": "common"
+	},
+	{
+		"item_id": 1165,
+		"min_amount": 1,
+		"max_amount": 1,
+		"reward_level": "easy",
+		"rarity": "common"
+	},
+	{
+		"item_id": 1167,
+		"min_amount": 1,
+		"max_amount": 1,
+		"reward_level": "easy",
+		"rarity": "common"
+	},
+	{
+		"item_id": 1179,
+		"min_amount": 1,
+		"max_amount": 1,
+		"reward_level": "easy",
+		"rarity": "common"
+	},
+	{
+		"item_id": 1195,
+		"min_amount": 1,
+		"max_amount": 1,
+		"reward_level": "easy",
+		"rarity": "common"
+	},
+	{
+		"item_id": 1283,
+		"min_amount": 1,
+		"max_amount": 1,
+		"reward_level": "easy",
+		"rarity": "common"
+	},
+	{
+		"item_id": 1297,
+		"min_amount": 1,
+		"max_amount": 1,
+		"reward_level": "easy",
+		"rarity": "common"
+	},
+	{
+		"item_id": 1313,
+		"min_amount": 1,
+		"max_amount": 1,
+		"reward_level": "easy",
+		"rarity": "common"
+	},
+	{
+		"item_id": 1327,
+		"min_amount": 1,
+		"max_amount": 1,
+		"reward_level": "easy",
+		"rarity": "common"
+	},
+	{
+		"item_id": 1341,
+		"min_amount": 1,
+		"max_amount": 1,
+		"reward_level": "easy",
+		"rarity": "common"
+	},
+	{
+		"item_id": 1361,
+		"min_amount": 1,
+		"max_amount": 1,
+		"reward_level": "easy",
+		"rarity": "common"
+	},
+	{
+		"item_id": 1367,
+		"min_amount": 1,
+		"max_amount": 1,
+		"reward_level": "easy",
+		"rarity": "common"
+	},
+	{
+		"item_id": 1426,
+		"min_amount": 1,
+		"max_amount": 1,
+		"reward_level": "easy",
+		"rarity": "common"
+	},
+	{
+		"item_id": 2583,
+		"min_amount": 1,
+		"max_amount": 1,
+		"reward_level": "easy",
+		"rarity": "uncommon"
+	},
+	{
+		"item_id": 2585,
+		"min_amount": 1,
+		"max_amount": 1,
+		"reward_level": "easy",
+		"rarity": "uncommon"
+	},
+	{
+		"item_id": 2587,
+		"min_amount": 1,
+		"max_amount": 1,
+		"reward_level": "easy",
+		"rarity": "uncommon"
+	},
+	{
+		"item_id": 2589,
+		"min_amount": 1,
+		"max_amount": 1,
+		"reward_level": "easy",
+		"rarity": "uncommon"
+	},
+	{
+		"item_id": 2591,
+		"min_amount": 1,
+		"max_amount": 1,
+		"reward_level": "easy",
+		"rarity": "uncommon"
+	},
+	{
+		"item_id": 2593,
+		"min_amount": 1,
+		"max_amount": 1,
+		"reward_level": "easy",
+		"rarity": "uncommon"
+	},
+	{
+		"item_id": 2595,
+		"min_amount": 1,
+		"max_amount": 1,
+		"reward_level": "easy",
+		"rarity": "uncommon"
+	},
+	{
+		"item_id": 2597,
+		"min_amount": 1,
+		"max_amount": 1,
+		"reward_level": "easy",
+		"rarity": "uncommon"
+	},
+	{
+		"item_id": 2631,
+		"min_amount": 1,
+		"max_amount": 1,
+		"reward_level": "easy",
+		"rarity": "uncommon"
+	},
+	{
+		"item_id": 2633,
+		"min_amount": 1,
+		"max_amount": 1,
+		"reward_level": "easy",
+		"rarity": "rare"
+	},
+	{
+		"item_id": 2635,
+		"min_amount": 1,
+		"max_amount": 1,
+		"reward_level": "easy",
+		"rarity": "rare"
+	},
+	{
+		"item_id": 2637,
+		"min_amount": 1,
+		"max_amount": 1,
+		"reward_level": "easy",
+		"rarity": "rare"
+	},
+	{
+		"item_id": 7332,
+		"min_amount": 1,
+		"max_amount": 1,
+		"reward_level": "easy",
+		"rarity": "uncommon"
+	},
+	{
+		"item_id": 7338,
+		"min_amount": 1,
+		"max_amount": 1,
+		"reward_level": "easy",
+		"rarity": "uncommon"
+	},
+	{
+		"item_id": 7350,
+		"min_amount": 1,
+		"max_amount": 1,
+		"reward_level": "easy",
+		"rarity": "uncommon"
+	},
+	{
+		"item_id": 7356,
+		"min_amount": 1,
+		"max_amount": 1,
+		"reward_level": "easy",
+		"rarity": "uncommon"
+	},
+	{
+		"item_id": 7362,
+		"min_amount": 1,
+		"max_amount": 1,
+		"reward_level": "easy",
+		"rarity": "uncommon"
+	},
+	{
+		"item_id": 7364,
+		"min_amount": 1,
+		"max_amount": 1,
+		"reward_level": "easy",
+		"rarity": "uncommon"
+	},
+	{
+		"item_id": 7366,
+		"min_amount": 1,
+		"max_amount": 1,
+		"reward_level": "easy",
+		"rarity": "uncommon"
+	},
+	{
+		"item_id": 7368,
+		"min_amount": 1,
+		"max_amount": 1,
+		"reward_level": "easy",
+		"rarity": "uncommon"
+	},
+	{
+		"item_id": 7386,
+		"min_amount": 1,
+		"max_amount": 1,
+		"reward_level": "easy",
+		"rarity": "uncommon"
+	},
+	{
+		"item_id": 7388,
+		"min_amount": 1,
+		"max_amount": 1,
+		"reward_level": "easy",
+		"rarity": "uncommon"
+	},
+	{
+		"item_id": 7390,
+		"min_amount": 1,
+		"max_amount": 1,
+		"reward_level": "easy",
+		"rarity": "uncommon"
+	},
+	{
+		"item_id": 7392,
+		"min_amount": 1,
+		"max_amount": 1,
+		"reward_level": "easy",
+		"rarity": "uncommon"
+	},
+	{
+		"item_id": 7394,
+		"min_amount": 1,
+		"max_amount": 1,
+		"reward_level": "easy",
+		"rarity": "uncommon"
+	},
+	{
+		"item_id": 7396,
+		"min_amount": 1,
+		"max_amount": 1,
+		"reward_level": "easy",
+		"rarity": "uncommon"
+	},
+	{
+		"item_id": 12598,
+		"min_amount": 1,
+		"max_amount": 1,
+		"reward_level": "medium",
+		"rarity": "rare"
+	},
+	{
+		"item_id": 12441,
+		"min_amount": 1,
+		"max_amount": 1,
+		"reward_level": "medium",
+		"rarity": "rare"
+	},
+	{
+		"item_id": 12443,
+		"min_amount": 1,
+		"max_amount": 1,
+		"reward_level": "medium",
+		"rarity": "rare"
+	},
+	{
+		"item_id": 12514,
+		"min_amount": 1,
+		"max_amount": 1,
+		"reward_level": "medium",
+		"rarity": "rare"
+	},
+	{
+		"item_id": 12516,
+		"min_amount": 1,
+		"max_amount": 1,
+		"reward_level": "medium",
+		"rarity": "rare"
+	},
+	{
+		"item_id": 374,
+		"min_amount": 5,
+		"max_amount": 20,
+		"reward_level": "medium",
+		"rarity": "common"
+	},
+	{
+		"item_id": 890,
+		"min_amount": 50,
+		"max_amount": 150,
+		"reward_level": "medium",
+		"rarity": "common"
+	},
+	{
+		"item_id": 1073,
+		"min_amount": 1,
+		"max_amount": 1,
+		"reward_level": "medium",
+		"rarity": "common"
+	},
+	{
+		"item_id": 1091,
+		"min_amount": 1,
+		"max_amount": 1,
+		"reward_level": "medium",
+		"rarity": "common"
+	},
+	{
+		"item_id": 1099,
+		"min_amount": 1,
+		"max_amount": 1,
+		"reward_level": "medium",
+		"rarity": "common"
+	},
+	{
+		"item_id": 1111,
+		"min_amount": 1,
+		"max_amount": 1,
+		"reward_level": "medium",
+		"rarity": "common"
+	},
+	{
+		"item_id": 1123,
+		"min_amount": 1,
+		"max_amount": 1,
+		"reward_level": "medium",
+		"rarity": "common"
+	},
+	{
+		"item_id": 1135,
+		"min_amount": 1,
+		"max_amount": 1,
+		"reward_level": "medium",
+		"rarity": "common"
+	},
+	{
+		"item_id": 1145,
+		"min_amount": 1,
+		"max_amount": 1,
+		"reward_level": "medium",
+		"rarity": "common"
+	},
+	{
+		"item_id": 1161,
+		"min_amount": 1,
+		"max_amount": 1,
+		"reward_level": "medium",
+		"rarity": "common"
+	},
+	{
+		"item_id": 1169,
+		"min_amount": 1,
+		"max_amount": 1,
+		"reward_level": "medium",
+		"rarity": "common"
+	},
+	{
+		"item_id": 1183,
+		"min_amount": 1,
+		"max_amount": 1,
+		"reward_level": "medium",
+		"rarity": "common"
+	},
+	{
+		"item_id": 1199,
+		"min_amount": 1,
+		"max_amount": 1,
+		"reward_level": "medium",
+		"rarity": "common"
+	},
+	{
+		"item_id": 1211,
+		"min_amount": 1,
+		"max_amount": 1,
+		"reward_level": "medium",
+		"rarity": "common"
+	},
+	{
+		"item_id": 1245,
+		"min_amount": 1,
+		"max_amount": 1,
+		"reward_level": "medium",
+		"rarity": "common"
+	},
+	{
+		"item_id": 1271,
+		"min_amount": 1,
+		"max_amount": 1,
+		"reward_level": "medium",
+		"rarity": "common"
+	},
+	{
+		"item_id": 1287,
+		"min_amount": 1,
+		"max_amount": 1,
+		"reward_level": "medium",
+		"rarity": "common"
+	},
+	{
+		"item_id": 1301,
+		"min_amount": 1,
+		"max_amount": 1,
+		"reward_level": "medium",
+		"rarity": "common"
+	},
+	{
+		"item_id": 1317,
+		"min_amount": 1,
+		"max_amount": 1,
+		"reward_level": "medium",
+		"rarity": "common"
+	},
+	{
+		"item_id": 1331,
+		"min_amount": 1,
+		"max_amount": 1,
+		"reward_level": "medium",
+		"rarity": "common"
+	},
+	{
+		"item_id": 1357,
+		"min_amount": 1,
+		"max_amount": 1,
+		"reward_level": "medium",
+		"rarity": "common"
+	},
+	{
+		"item_id": 1371,
+		"min_amount": 1,
+		"max_amount": 1,
+		"reward_level": "medium",
+		"rarity": "common"
+	},
+	{
+		"item_id": 1430,
+		"min_amount": 1,
+		"max_amount": 1,
+		"reward_level": "medium",
+		"rarity": "common"
+	},
+	{
+		"item_id": 2577,
+		"min_amount": 1,
+		"max_amount": 1,
+		"reward_level": "medium",
+		"rarity": "rare"
+	},
+	{
+		"item_id": 2579,
+		"min_amount": 1,
+		"max_amount": 1,
+		"reward_level": "medium",
+		"rarity": "rare"
+	},
+	{
+		"item_id": 2599,
+		"min_amount": 1,
+		"max_amount": 1,
+		"reward_level": "medium",
+		"rarity": "uncommon"
+	},
+	{
+		"item_id": 2601,
+		"min_amount": 1,
+		"max_amount": 1,
+		"reward_level": "medium",
+		"rarity": "uncommon"
+	},
+	{
+		"item_id": 2603,
+		"min_amount": 1,
+		"max_amount": 1,
+		"reward_level": "medium",
+		"rarity": "uncommon"
+	},
+	{
+		"item_id": 2605,
+		"min_amount": 1,
+		"max_amount": 1,
+		"reward_level": "medium",
+		"rarity": "uncommon"
+	},
+	{
+		"item_id": 2607,
+		"min_amount": 1,
+		"max_amount": 1,
+		"reward_level": "medium",
+		"rarity": "uncommon"
+	},
+	{
+		"item_id": 2609,
+		"min_amount": 1,
+		"max_amount": 1,
+		"reward_level": "medium",
+		"rarity": "uncommon"
+	},
+	{
+		"item_id": 2611,
+		"min_amount": 1,
+		"max_amount": 1,
+		"reward_level": "medium",
+		"rarity": "uncommon"
+	},
+	{
+		"item_id": 2613,
+		"min_amount": 1,
+		"max_amount": 1,
+		"reward_level": "medium",
+		"rarity": "uncommon"
+	},
+	{
+		"item_id": 2645,
+		"min_amount": 1,
+		"max_amount": 1,
+		"reward_level": "medium",
+		"rarity": "uncommon"
+	},
+	{
+		"item_id": 2647,
+		"min_amount": 1,
+		"max_amount": 1,
+		"reward_level": "medium",
+		"rarity": "uncommon"
+	},
+	{
+		"item_id": 2649,
+		"min_amount": 1,
+		"max_amount": 1,
+		"reward_level": "medium",
+		"rarity": "uncommon"
+	},
+	{
+		"item_id": 6889,
+		"min_amount": 1,
+		"max_amount": 1,
+		"reward_level": "medium",
+		"rarity": "rare"
+	},
+	{
+		"item_id": 6916,
+		"min_amount": 1,
+		"max_amount": 1,
+		"reward_level": "medium",
+		"rarity": "rare"
+	},
+	{
+		"item_id": 6918,
+		"min_amount": 1,
+		"max_amount": 1,
+		"reward_level": "medium",
+		"rarity": "rare"
+	},
+	{
+		"item_id": 6920,
+		"min_amount": 1,
+		"max_amount": 1,
+		"reward_level": "medium",
+		"rarity": "rare"
+	},
+	{
+		"item_id": 6922,
+		"min_amount": 1,
+		"max_amount": 1,
+		"reward_level": "medium",
+		"rarity": "rare"
+	},
+	{
+		"item_id": 6924,
+		"min_amount": 1,
+		"max_amount": 1,
+		"reward_level": "medium",
+		"rarity": "rare"
+	},
+	{
+		"item_id": 7319,
+		"min_amount": 1,
+		"max_amount": 1,
+		"reward_level": "medium",
+		"rarity": "uncommon"
+	},
+	{
+		"item_id": 7321,
+		"min_amount": 1,
+		"max_amount": 1,
+		"reward_level": "medium",
+		"rarity": "uncommon"
+	},
+	{
+		"item_id": 7323,
+		"min_amount": 1,
+		"max_amount": 1,
+		"reward_level": "medium",
+		"rarity": "uncommon"
+	},
+	{
+		"item_id": 7325,
+		"min_amount": 1,
+		"max_amount": 1,
+		"reward_level": "medium",
+		"rarity": "uncommon"
+	},
+	{
+		"item_id": 7327,
+		"min_amount": 1,
+		"max_amount": 1,
+		"reward_level": "medium",
+		"rarity": "uncommon"
+	},
+	{
+		"item_id": 7334,
+		"min_amount": 1,
+		"max_amount": 1,
+		"reward_level": "medium",
+		"rarity": "uncommon"
+	},
+	{
+		"item_id": 20220,
+		"min_amount": 1,
+		"max_amount": 1,
+		"reward_level": "medium",
+		"rarity": "uncommon"
+	},
+	{
+		"item_id": 20223,
+		"min_amount": 1,
+		"max_amount": 1,
+		"reward_level": "medium",
+		"rarity": "uncommon"
+	},
+	{
+		"item_id": 20226,
+		"min_amount": 1,
+		"max_amount": 1,
+		"reward_level": "medium",
+		"rarity": "uncommon"
+	},
+	{
+		"item_id": 20229,
+		"min_amount": 1,
+		"max_amount": 1,
+		"reward_level": "medium",
+		"rarity": "uncommon"
+	},
+	{
+		"item_id": 20232,
+		"min_amount": 1,
+		"max_amount": 1,
+		"reward_level": "medium",
+		"rarity": "uncommon"
+	},
+	{
+		"item_id": 20235,
+		"min_amount": 1,
+		"max_amount": 1,
+		"reward_level": "medium",
+		"rarity": "uncommon"
+	},
+	{
+		"item_id": 7340,
+		"min_amount": 1,
+		"max_amount": 1,
+		"reward_level": "medium",
+		"rarity": "uncommon"
+	},
+	{
+		"item_id": 7346,
+		"min_amount": 1,
+		"max_amount": 1,
+		"reward_level": "medium",
+		"rarity": "uncommon"
+	},
+	{
+		"item_id": 7352,
+		"min_amount": 1,
+		"max_amount": 1,
+		"reward_level": "medium",
+		"rarity": "uncommon"
+	},
+	{
+		"item_id": 7358,
+		"min_amount": 1,
+		"max_amount": 1,
+		"reward_level": "medium",
+		"rarity": "uncommon"
+	},
+	{
+		"item_id": 7370,
+		"min_amount": 1,
+		"max_amount": 1,
+		"reward_level": "medium",
+		"rarity": "uncommon"
+	},
+	{
+		"item_id": 7372,
+		"min_amount": 1,
+		"max_amount": 1,
+		"reward_level": "medium",
+		"rarity": "uncommon"
+	},
+	{
+		"item_id": 7378,
+		"min_amount": 1,
+		"max_amount": 1,
+		"reward_level": "medium",
+		"rarity": "uncommon"
+	},
+	{
+		"item_id": 7380,
+		"min_amount": 1,
+		"max_amount": 1,
+		"reward_level": "medium",
+		"rarity": "uncommon"
+	},
+	{
+		"item_id": 10400,
+		"min_amount": 1,
+		"max_amount": 1,
+		"reward_level": "medium",
+		"rarity": "uncommon"
+	},
+	{
+		"item_id": 10402,
+		"min_amount": 1,
+		"max_amount": 1,
+		"reward_level": "medium",
+		"rarity": "uncommon"
+	},
+	{
+		"item_id": 10416,
+		"min_amount": 1,
+		"max_amount": 1,
+		"reward_level": "medium",
+		"rarity": "uncommon"
+	},
+	{
+		"item_id": 10418,
+		"min_amount": 1,
+		"max_amount": 1,
+		"reward_level": "medium",
+		"rarity": "uncommon"
+	},
+	{
+		"item_id": 10420,
+		"min_amount": 1,
+		"max_amount": 1,
+		"reward_level": "medium",
+		"rarity": "uncommon"
+	},
+	{
+		"item_id": 10422,
+		"min_amount": 1,
+		"max_amount": 1,
+		"reward_level": "medium",
+		"rarity": "uncommon"
+	},
+	{
+		"item_id": 10436,
+		"min_amount": 1,
+		"max_amount": 1,
+		"reward_level": "medium",
+		"rarity": "uncommon"
+	},
+	{
+		"item_id": 10438,
+		"min_amount": 1,
+		"max_amount": 1,
+		"reward_level": "medium",
+		"rarity": "uncommon"
+	},
+	{
+		"item_id": 10446,
+		"min_amount": 1,
+		"max_amount": 1,
+		"reward_level": "medium",
+		"rarity": "uncommon"
+	},
+	{
+		"item_id": 10448,
+		"min_amount": 1,
+		"max_amount": 1,
+		"reward_level": "medium",
+		"rarity": "uncommon"
+	},
+	{
+		"item_id": 10450,
+		"min_amount": 1,
+		"max_amount": 1,
+		"reward_level": "medium",
+		"rarity": "uncommon"
+	},
+	{
+		"item_id": 10452,
+		"min_amount": 1,
+		"max_amount": 1,
+		"reward_level": "medium",
+		"rarity": "rare"
+	},
+	{
+		"item_id": 10454,
+		"min_amount": 1,
+		"max_amount": 1,
+		"reward_level": "medium",
+		"rarity": "rare"
+	},
+	{
+		"item_id": 10456,
+		"min_amount": 1,
+		"max_amount": 1,
+		"reward_level": "medium",
+		"rarity": "rare"
+	},
+	{
+		"item_id": 386,
+		"min_amount": 5,
+		"max_amount": 20,
+		"reward_level": "hard",
+		"rarity": "common"
+	},
+	{
+		"item_id": 859,
+		"min_amount": 1,
+		"max_amount": 1,
+		"reward_level": "hard",
+		"rarity": "common"
+	},
+	{
+		"item_id": 861,
+		"min_amount": 1,
+		"max_amount": 1,
+		"reward_level": "hard",
+		"rarity": "common"
+	},
+	{
+		"item_id": 892,
+		"min_amount": 50,
+		"max_amount": 150,
+		"reward_level": "hard",
+		"rarity": "common"
+	},
+	{
+		"item_id": 1079,
+		"min_amount": 1,
+		"max_amount": 1,
+		"reward_level": "hard",
+		"rarity": "common"
+	},
+	{
+		"item_id": 1093,
+		"min_amount": 1,
+		"max_amount": 1,
+		"reward_level": "hard",
+		"rarity": "common"
+	},
+	{
+		"item_id": 1113,
+		"min_amount": 1,
+		"max_amount": 1,
+		"reward_level": "hard",
+		"rarity": "common"
+	},
+	{
+		"item_id": 1127,
+		"min_amount": 1,
+		"max_amount": 1,
+		"reward_level": "hard",
+		"rarity": "common"
+	},
+	{
+		"item_id": 1147,
+		"min_amount": 1,
+		"max_amount": 1,
+		"reward_level": "hard",
+		"rarity": "common"
+	},
+	{
+		"item_id": 1163,
+		"min_amount": 1,
+		"max_amount": 1,
+		"reward_level": "hard",
+		"rarity": "common"
+	},
+	{
+		"item_id": 1185,
+		"min_amount": 1,
+		"max_amount": 1,
+		"reward_level": "hard",
+		"rarity": "common"
+	},
+	{
+		"item_id": 1201,
+		"min_amount": 1,
+		"max_amount": 1,
+		"reward_level": "hard",
+		"rarity": "common"
+	},
+	{
+		"item_id": 1213,
+		"min_amount": 1,
+		"max_amount": 1,
+		"reward_level": "hard",
+		"rarity": "common"
+	},
+	{
+		"item_id": 1247,
+		"min_amount": 1,
+		"max_amount": 1,
+		"reward_level": "hard",
+		"rarity": "common"
+	},
+	{
+		"item_id": 1275,
+		"min_amount": 1,
+		"max_amount": 1,
+		"reward_level": "hard",
+		"rarity": "common"
+	},
+	{
+		"item_id": 1289,
+		"min_amount": 1,
+		"max_amount": 1,
+		"reward_level": "hard",
+		"rarity": "common"
+	},
+	{
+		"item_id": 1303,
+		"min_amount": 1,
+		"max_amount": 1,
+		"reward_level": "hard",
+		"rarity": "common"
+	},
+	{
+		"item_id": 1319,
+		"min_amount": 1,
+		"max_amount": 1,
+		"reward_level": "hard",
+		"rarity": "common"
+	},
+	{
+		"item_id": 1333,
+		"min_amount": 1,
+		"max_amount": 1,
+		"reward_level": "hard",
+		"rarity": "common"
+	},
+	{
+		"item_id": 1347,
+		"min_amount": 1,
+		"max_amount": 1,
+		"reward_level": "hard",
+		"rarity": "common"
+	},
+	{
+		"item_id": 1359,
+		"min_amount": 1,
+		"max_amount": 1,
+		"reward_level": "hard",
+		"rarity": "common"
+	},
+	{
+		"item_id": 1373,
+		"min_amount": 1,
+		"max_amount": 1,
+		"reward_level": "hard",
+		"rarity": "common"
+	},
+	{
+		"item_id": 1432,
+		"min_amount": 1,
+		"max_amount": 1,
+		"reward_level": "hard",
+		"rarity": "common"
+	},
+	{
+		"item_id": 2491,
+		"min_amount": 1,
+		"max_amount": 1,
+		"reward_level": "hard",
+		"rarity": "common"
+	},
+	{
+		"item_id": 2497,
+		"min_amount": 1,
+		"max_amount": 1,
+		"reward_level": "hard",
+		"rarity": "common"
+	},
+	{
+		"item_id": 2503,
+		"min_amount": 1,
+		"max_amount": 1,
+		"reward_level": "hard",
+		"rarity": "common"
+	},
+	{
+		"item_id": 20220,
+		"min_amount": 1,
+		"max_amount": 1,
+		"reward_level": "hard",
+		"rarity": "common"
+	},
+	{
+		"item_id": 20223,
+		"min_amount": 1,
+		"max_amount": 1,
+		"reward_level": "hard",
+		"rarity": "common"
+	},
+	{
+		"item_id": 20226,
+		"min_amount": 1,
+		"max_amount": 1,
+		"reward_level": "hard",
+		"rarity": "common"
+	},
+	{
+		"item_id": 20229,
+		"min_amount": 1,
+		"max_amount": 1,
+		"reward_level": "hard",
+		"rarity": "common"
+	},
+	{
+		"item_id": 20232,
+		"min_amount": 1,
+		"max_amount": 1,
+		"reward_level": "hard",
+		"rarity": "common"
+	},
+	{
+		"item_id": 20235,
+		"min_amount": 1,
+		"max_amount": 1,
+		"reward_level": "hard",
+		"rarity": "common"
+	},
+	{
+		"item_id": 2577,
+		"min_amount": 1,
+		"max_amount": 1,
+		"reward_level": "hard",
+		"rarity": "rare"
+	},
+	{
+		"item_id": 2581,
+		"min_amount": 1,
+		"max_amount": 1,
+		"reward_level": "hard",
+		"rarity": "very_rare"
+	},
+	{
+		"item_id": 2615,
+		"min_amount": 1,
+		"max_amount": 1,
+		"reward_level": "hard",
+		"rarity": "uncommon"
+	},
+	{
+		"item_id": 2617,
+		"min_amount": 1,
+		"max_amount": 1,
+		"reward_level": "hard",
+		"rarity": "uncommon"
+	},
+	{
+		"item_id": 2619,
+		"min_amount": 1,
+		"max_amount": 1,
+		"reward_level": "hard",
+		"rarity": "uncommon"
+	},
+	{
+		"item_id": 2621,
+		"min_amount": 1,
+		"max_amount": 1,
+		"reward_level": "hard",
+		"rarity": "uncommon"
+	},
+	{
+		"item_id": 2623,
+		"min_amount": 1,
+		"max_amount": 1,
+		"reward_level": "hard",
+		"rarity": "uncommon"
+	},
+	{
+		"item_id": 2625,
+		"min_amount": 1,
+		"max_amount": 1,
+		"reward_level": "hard",
+		"rarity": "uncommon"
+	},
+	{
+		"item_id": 2627,
+		"min_amount": 1,
+		"max_amount": 1,
+		"reward_level": "hard",
+		"rarity": "uncommon"
+	},
+	{
+		"item_id": 2629,
+		"min_amount": 1,
+		"max_amount": 1,
+		"reward_level": "hard",
+		"rarity": "uncommon"
+	},
+	{
+		"item_id": 2639,
+		"min_amount": 1,
+		"max_amount": 1,
+		"reward_level": "hard",
+		"rarity": "uncommon"
+	},
+	{
+		"item_id": 2641,
+		"min_amount": 1,
+		"max_amount": 1,
+		"reward_level": "hard",
+		"rarity": "uncommon"
+	},
+	{
+		"item_id": 2643,
+		"min_amount": 1,
+		"max_amount": 1,
+		"reward_level": "hard",
+		"rarity": "uncommon"
+	},
+	{
+		"item_id": 2651,
+		"min_amount": 1,
+		"max_amount": 1,
+		"reward_level": "hard",
+		"rarity": "rare"
+	},
+	{
+		"item_id": 2653,
+		"min_amount": 1,
+		"max_amount": 1,
+		"reward_level": "hard",
+		"rarity": "rare"
+	},
+	{
+		"item_id": 2655,
+		"min_amount": 1,
+		"max_amount": 1,
+		"reward_level": "hard",
+		"rarity": "rare"
+	},
+	{
+		"item_id": 2657,
+		"min_amount": 1,
+		"max_amount": 1,
+		"reward_level": "hard",
+		"rarity": "rare"
+	},
+	{
+		"item_id": 2659,
+		"min_amount": 1,
+		"max_amount": 1,
+		"reward_level": "hard",
+		"rarity": "rare"
+	},
+	{
+		"item_id": 2661,
+		"min_amount": 1,
+		"max_amount": 1,
+		"reward_level": "hard",
+		"rarity": "rare"
+	},
+	{
+		"item_id": 2663,
+		"min_amount": 1,
+		"max_amount": 1,
+		"reward_level": "hard",
+		"rarity": "rare"
+	},
+	{
+		"item_id": 2665,
+		"min_amount": 1,
+		"max_amount": 1,
+		"reward_level": "hard",
+		"rarity": "rare"
+	},
+	{
+		"item_id": 2667,
+		"min_amount": 1,
+		"max_amount": 1,
+		"reward_level": "hard",
+		"rarity": "rare"
+	},
+	{
+		"item_id": 2669,
+		"min_amount": 1,
+		"max_amount": 1,
+		"reward_level": "hard",
+		"rarity": "rare"
+	},
+	{
+		"item_id": 2671,
+		"min_amount": 1,
+		"max_amount": 1,
+		"reward_level": "hard",
+		"rarity": "rare"
+	},
+	{
+		"item_id": 2673,
+		"min_amount": 1,
+		"max_amount": 1,
+		"reward_level": "hard",
+		"rarity": "rare"
+	},
+	{
+		"item_id": 2675,
+		"min_amount": 1,
+		"max_amount": 1,
+		"reward_level": "hard",
+		"rarity": "rare"
+	},
+	{
+		"item_id": 3481,
+		"min_amount": 1,
+		"max_amount": 1,
+		"reward_level": "hard",
+		"rarity": "rare"
+	},
+	{
+		"item_id": 3483,
+		"min_amount": 1,
+		"max_amount": 1,
+		"reward_level": "hard",
+		"rarity": "rare"
+	},
+	{
+		"item_id": 3485,
+		"min_amount": 1,
+		"max_amount": 1,
+		"reward_level": "hard",
+		"rarity": "rare"
+	},
+	{
+		"item_id": 3486,
+		"min_amount": 1,
+		"max_amount": 1,
+		"reward_level": "hard",
+		"rarity": "rare"
+	},
+	{
+		"item_id": 3488,
+		"min_amount": 1,
+		"max_amount": 1,
+		"reward_level": "hard",
+		"rarity": "rare"
+	},
+	{
+		"item_id": 7342,
+		"min_amount": 1,
+		"max_amount": 1,
+		"reward_level": "hard",
+		"rarity": "uncommon"
+	},
+	{
+		"item_id": 7348,
+		"min_amount": 1,
+		"max_amount": 1,
+		"reward_level": "hard",
+		"rarity": "uncommon"
+	},
+	{
+		"item_id": 7374,
+		"min_amount": 1,
+		"max_amount": 1,
+		"reward_level": "hard",
+		"rarity": "uncommon"
+	},
+	{
+		"item_id": 7376,
+		"min_amount": 1,
+		"max_amount": 1,
+		"reward_level": "hard",
+		"rarity": "uncommon"
+	},
+	{
+		"item_id": 7382,
+		"min_amount": 1,
+		"max_amount": 1,
+		"reward_level": "hard",
+		"rarity": "uncommon"
+	},
+	{
+		"item_id": 7384,
+		"min_amount": 1,
+		"max_amount": 1,
+		"reward_level": "hard",
+		"rarity": "uncommon"
+	},
+	{
+		"item_id": 7398,
+		"min_amount": 1,
+		"max_amount": 1,
+		"reward_level": "hard",
+		"rarity": "uncommon"
+	},
+	{
+		"item_id": 7399,
+		"min_amount": 1,
+		"max_amount": 1,
+		"reward_level": "hard",
+		"rarity": "uncommon"
+	},
+	{
+		"item_id": 7400,
+		"min_amount": 1,
+		"max_amount": 1,
+		"reward_level": "hard",
+		"rarity": "uncommon"
+	},
+	{
+		"item_id": 10330,
+		"min_amount": 1,
+		"max_amount": 1,
+		"reward_level": "hard",
+		"rarity": "very_rare"
+	},
+	{
+		"item_id": 10332,
+		"min_amount": 1,
+		"max_amount": 1,
+		"reward_level": "hard",
+		"rarity": "very_rare"
+	},
+	{
+		"item_id": 10334,
+		"min_amount": 1,
+		"max_amount": 1,
+		"reward_level": "hard",
+		"rarity": "very_rare"
+	},
+	{
+		"item_id": 10336,
+		"min_amount": 1,
+		"max_amount": 1,
+		"reward_level": "hard",
+		"rarity": "very_rare"
+	},
+	{
+		"item_id": 10338,
+		"min_amount": 1,
+		"max_amount": 1,
+		"reward_level": "hard",
+		"rarity": "very_rare"
+	},
+	{
+		"item_id": 10340,
+		"min_amount": 1,
+		"max_amount": 1,
+		"reward_level": "hard",
+		"rarity": "very_rare"
+	},
+	{
+		"item_id": 10342,
+		"min_amount": 1,
+		"max_amount": 1,
+		"reward_level": "hard",
+		"rarity": "very_rare"
+	},
+	{
+		"item_id": 10344,
+		"min_amount": 1,
+		"max_amount": 1,
+		"reward_level": "hard",
+		"rarity": "very_rare"
+	},
+	{
+		"item_id": 10346,
+		"min_amount": 1,
+		"max_amount": 1,
+		"reward_level": "hard",
+		"rarity": "very_rare"
+	},
+	{
+		"item_id": 10348,
+		"min_amount": 1,
+		"max_amount": 1,
+		"reward_level": "hard",
+		"rarity": "very_rare"
+	},
+	{
+		"item_id": 10350,
+		"min_amount": 1,
+		"max_amount": 1,
+		"reward_level": "hard",
+		"rarity": "very_rare"
+	},
+	{
+		"item_id": 10352,
+		"min_amount": 1,
+		"max_amount": 1,
+		"reward_level": "hard",
+		"rarity": "very_rare"
+	},
+	{
+		"item_id": 10368,
+		"min_amount": 1,
+		"max_amount": 1,
+		"reward_level": "hard",
+		"rarity": "rare"
+	},
+	{
+		"item_id": 10370,
+		"min_amount": 1,
+		"max_amount": 1,
+		"reward_level": "hard",
+		"rarity": "rare"
+	},
+	{
+		"item_id": 10372,
+		"min_amount": 1,
+		"max_amount": 1,
+		"reward_level": "hard",
+		"rarity": "rare"
+	},
+	{
+		"item_id": 10374,
+		"min_amount": 1,
+		"max_amount": 1,
+		"reward_level": "hard",
+		"rarity": "rare"
+	},
+	{
+		"item_id": 10376,
+		"min_amount": 1,
+		"max_amount": 1,
+		"reward_level": "hard",
+		"rarity": "rare"
+	},
+	{
+		"item_id": 10378,
+		"min_amount": 1,
+		"max_amount": 1,
+		"reward_level": "hard",
+		"rarity": "rare"
+	},
+	{
+		"item_id": 10380,
+		"min_amount": 1,
+		"max_amount": 1,
+		"reward_level": "hard",
+		"rarity": "rare"
+	},
+	{
+		"item_id": 10382,
+		"min_amount": 1,
+		"max_amount": 1,
+		"reward_level": "hard",
+		"rarity": "rare"
+	},
+	{
+		"item_id": 10384,
+		"min_amount": 1,
+		"max_amount": 1,
+		"reward_level": "hard",
+		"rarity": "rare"
+	},
+	{
+		"item_id": 10386,
+		"min_amount": 1,
+		"max_amount": 1,
+		"reward_level": "hard",
+		"rarity": "rare"
+	},
+	{
+		"item_id": 10388,
+		"min_amount": 1,
+		"max_amount": 1,
+		"reward_level": "hard",
+		"rarity": "rare"
+	},
+	{
+		"item_id": 10390,
+		"min_amount": 1,
+		"max_amount": 1,
+		"reward_level": "hard",
+		"rarity": "rare"
+	},
+	{
+		"item_id": 10440,
+		"min_amount": 1,
+		"max_amount": 1,
+		"reward_level": "hard",
+		"rarity": "rare"
+	},
+	{
+		"item_id": 10442,
+		"min_amount": 1,
+		"max_amount": 1,
+		"reward_level": "hard",
+		"rarity": "rare"
+	},
+	{
+		"item_id": 10444,
+		"min_amount": 1,
+		"max_amount": 1,
+		"reward_level": "hard",
+		"rarity": "rare"
+	},
+	{
+		"item_id": 10470,
+		"min_amount": 1,
+		"max_amount": 1,
+		"reward_level": "hard",
+		"rarity": "rare"
+	},
+	{
+		"item_id": 10472,
+		"min_amount": 1,
+		"max_amount": 1,
+		"reward_level": "hard",
+		"rarity": "rare"
+	},
+	{
+		"item_id": 10474,
+		"min_amount": 1,
+		"max_amount": 1,
+		"reward_level": "hard",
+		"rarity": "rare"
+	},
+	{
+		"item_id": 12596,
+		"min_amount": 1,
+		"max_amount": 1,
+		"reward_level": "hard",
+		"rarity": "rare"
+	},
+	{
+		"item_id": 19933,
+		"min_amount": 1,
+		"max_amount": 1,
+		"reward_level": "hard",
+		"rarity": "rare"
+	},
+	{
+		"item_id": 19936,
+		"min_amount": 1,
+		"max_amount": 1,
+		"reward_level": "hard",
+		"rarity": "rare"
+	},
+	{
+		"item_id": 19927,
+		"min_amount": 1,
+		"max_amount": 1,
+		"reward_level": "hard",
+		"rarity": "rare"
+	},
+	{
+		"item_id": 19924,
+		"min_amount": 1,
+		"max_amount": 1,
+		"reward_level": "hard",
+		"rarity": "rare"
+	},
+	{
+		"item_id": 19930,
+		"min_amount": 1,
+		"max_amount": 1,
+		"reward_level": "hard",
+		"rarity": "rare"
+	},
+	{
+		"item_id": 19921,
+		"min_amount": 1,
+		"max_amount": 1,
+		"reward_level": "hard",
+		"rarity": "rare"
+	},
+	{
+		"item_id": 20272,
+		"min_amount": 1,
+		"max_amount": 1,
+		"reward_level": "master",
+		"rarity": "rare"
+	},
+	{
+		"item_id": 20249,
+		"min_amount": 1,
+		"max_amount": 1,
+		"reward_level": "master",
+		"rarity": "very_rare"
+	},
+	{
+		"item_id": 20266,
+		"min_amount": 1,
+		"max_amount": 1,
+		"reward_level": "master",
+		"rarity": "rare"
+	},
+	{
+		"item_id": 20269,
+		"min_amount": 1,
+		"max_amount": 1,
+		"reward_level": "master",
+		"rarity": "rare"
+	},
+	{
+		"item_id": 20240,
+		"min_amount": 1,
+		"max_amount": 1,
+		"reward_level": "master",
+		"rarity": "rare"
+	},
+	{
+		"item_id": 20243,
+		"min_amount": 1,
+		"max_amount": 1,
+		"reward_level": "master",
+		"rarity": "rare"
+	},
+	{
+		"item_id": 20205,
+		"min_amount": 1,
+		"max_amount": 1,
+		"reward_level": "master",
+		"rarity": "very_rare"
+	},
+	{
+		"item_id": 20208,
+		"min_amount": 1,
+		"max_amount": 1,
+		"reward_level": "master",
+		"rarity": "rare"
+	},
+	{
+		"item_id": 20211,
+		"min_amount": 1,
+		"max_amount": 1,
+		"reward_level": "master",
+		"rarity": "rare"
+	},
+	{
+		"item_id": 20214,
+		"min_amount": 1,
+		"max_amount": 1,
+		"reward_level": "master",
+		"rarity": "rare"
+	},
+	{
+		"item_id": 20217,
+		"min_amount": 1,
+		"max_amount": 1,
+		"reward_level": "master",
+		"rarity": "rare"
+	},
+	{
+		"item_id": 20199,
+		"min_amount": 1,
+		"max_amount": 1,
+		"reward_level": "master",
+		"rarity": "very_rare"
+	},
+	{
+		"item_id": 20202,
+		"min_amount": 1,
+		"max_amount": 1,
+		"reward_level": "master",
+		"rarity": "very_rare"
+	},
+	{
+		"item_id": 20143,
+		"min_amount": 1,
+		"max_amount": 1,
+		"reward_level": "master",
+		"rarity": "very_rare"
+	},
+	{
+		"item_id": 20164,
+		"min_amount": 1,
+		"max_amount": 1,
+		"reward_level": "master",
+		"rarity": "very_rare"
+	},
+	{
+		"item_id": 20246,
+		"min_amount": 1,
+		"max_amount": 1,
+		"reward_level": "master",
+		"rarity": "uncommon"
+	},
+	{
+		"item_id": 20110,
+		"min_amount": 1,
+		"max_amount": 1,
+		"reward_level": "master",
+		"rarity": "rare"
+	},
+	{
+		"item_id": 20095,
+		"min_amount": 1,
+		"max_amount": 1,
+		"reward_level": "master",
+		"rarity": "uncommon"
+	},
+	{
+		"item_id": 20098,
+		"min_amount": 1,
+		"max_amount": 1,
+		"reward_level": "master",
+		"rarity": "uncommon"
+	},
+	{
+		"item_id": 20101,
+		"min_amount": 1,
+		"max_amount": 1,
+		"reward_level": "master",
+		"rarity": "uncommon"
+	},
+	{
+		"item_id": 20104,
+		"min_amount": 1,
+		"max_amount": 1,
+		"reward_level": "master",
+		"rarity": "uncommon"
+	},
+	{
+		"item_id": 20107,
+		"min_amount": 1,
+		"max_amount": 1,
+		"reward_level": "master",
+		"rarity": "uncommon"
+	},
+	{
+		"item_id": 20080,
+		"min_amount": 1,
+		"max_amount": 1,
+		"reward_level": "master",
+		"rarity": "uncommon"
+	},
+	{
+		"item_id": 20083,
+		"min_amount": 1,
+		"max_amount": 1,
+		"reward_level": "master",
+		"rarity": "uncommon"
+	},
+	{
+		"item_id": 20086,
+		"min_amount": 1,
+		"max_amount": 1,
+		"reward_level": "master",
+		"rarity": "uncommon"
+	},
+	{
+		"item_id": 20089,
+		"min_amount": 1,
+		"max_amount": 1,
+		"reward_level": "master",
+		"rarity": "uncommon"
+	},
+	{
+		"item_id": 20092,
+		"min_amount": 1,
+		"max_amount": 1,
+		"reward_level": "master",
+		"rarity": "uncommon"
+	},
+	{
+		"item_id": 20011,
+		"min_amount": 1,
+		"max_amount": 1,
+		"reward_level": "master",
+		"rarity": "very_rare"
+	},
+	{
+		"item_id": 20014,
+		"min_amount": 1,
+		"max_amount": 1,
+		"reward_level": "master",
+		"rarity": "very_rare"
+	},
+	{
+		"item_id": 20020,
+		"min_amount": 1,
+		"max_amount": 1,
+		"reward_level": "master",
+		"rarity": "uncommon"
+	},
+	{
+		"item_id": 20023,
+		"min_amount": 1,
+		"max_amount": 1,
+		"reward_level": "master",
+		"rarity": "uncommon"
+	},
+	{
+		"item_id": 20026,
+		"min_amount": 1,
+		"max_amount": 1,
+		"reward_level": "master",
+		"rarity": "uncommon"
+	},
+	{
+		"item_id": 20029,
+		"min_amount": 1,
+		"max_amount": 1,
+		"reward_level": "master",
+		"rarity": "uncommon"
+	},
+	{
+		"item_id": 20032,
+		"min_amount": 1,
+		"max_amount": 1,
+		"reward_level": "master",
+		"rarity": "uncommon"
+	},
+	{
+		"item_id": 20035,
+		"min_amount": 1,
+		"max_amount": 1,
+		"reward_level": "master",
+		"rarity": "uncommon"
+	},
+	{
+		"item_id": 20038,
+		"min_amount": 1,
+		"max_amount": 1,
+		"reward_level": "master",
+		"rarity": "uncommon"
+	},
+	{
+		"item_id": 20041,
+		"min_amount": 1,
+		"max_amount": 1,
+		"reward_level": "master",
+		"rarity": "uncommon"
+	},
+	{
+		"item_id": 20044,
+		"min_amount": 1,
+		"max_amount": 1,
+		"reward_level": "master",
+		"rarity": "uncommon"
+	},
+	{
+		"item_id": 20047,
+		"min_amount": 1,
+		"max_amount": 1,
+		"reward_level": "master",
+		"rarity": "uncommon"
+	},
+	{
+		"item_id": 19991,
+		"min_amount": 1,
+		"max_amount": 1,
+		"reward_level": "master",
+		"rarity": "uncommon"
+	},
+	{
+		"item_id": 20059,
+		"min_amount": 1,
+		"max_amount": 1,
+		"reward_level": "master",
+		"rarity": "very_rare"
+	},
+	{
+		"item_id": 19958,
+		"min_amount": 1,
+		"max_amount": 1,
+		"reward_level": "master",
+		"rarity": "rare"
+	},
+	{
+		"item_id": 19961,
+		"min_amount": 1,
+		"max_amount": 1,
+		"reward_level": "master",
+		"rarity": "rare"
+	},
+	{
+		"item_id": 19964,
+		"min_amount": 1,
+		"max_amount": 1,
+		"reward_level": "master",
+		"rarity": "rare"
+	},
+	{
+		"item_id": 19967,
+		"min_amount": 1,
+		"max_amount": 1,
+		"reward_level": "master",
+		"rarity": "rare"
+	},
+	{
+		"item_id": 19970,
+		"min_amount": 1,
+		"max_amount": 1,
+		"reward_level": "master",
+		"rarity": "rare"
+	},
+	{
+		"item_id": 19973,
+		"min_amount": 1,
+		"max_amount": 1,
+		"reward_level": "master",
+		"rarity": "rare"
+	},
+	{
+		"item_id": 19976,
+		"min_amount": 1,
+		"max_amount": 1,
+		"reward_level": "master",
+		"rarity": "rare"
+	},
+	{
+		"item_id": 19979,
+		"min_amount": 1,
+		"max_amount": 1,
+		"reward_level": "master",
+		"rarity": "rare"
+	},
+	{
+		"item_id": 19982,
+		"min_amount": 1,
+		"max_amount": 1,
+		"reward_level": "master",
+		"rarity": "rare"
+	},
+	{
+		"item_id": 19941,
+		"min_amount": 1,
+		"max_amount": 1,
+		"reward_level": "master",
+		"rarity": "very_rare"
+	},
+	{
+		"item_id": 19989,
+		"min_amount": 1,
+		"max_amount": 1,
+		"reward_level": "master",
+		"rarity": "rare"
+	},
+	{
+		"item_id": 20005,
+		"min_amount": 1,
+		"max_amount": 1,
+		"reward_level": "master",
+		"rarity": "rare"
+	},
+	{
+		"item_id": 20017,
+		"min_amount": 1,
+		"max_amount": 1,
+		"reward_level": "master",
+		"rarity": "rare"
+	},
+]

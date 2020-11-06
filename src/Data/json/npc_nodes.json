@@ -1,0 +1,14 @@
+[
+{
+"npcId":1,
+"xPos":3093,
+"yPos":3493,
+"height":0,
+"walkType":1,
+"health":10,
+"maxHit":10,
+"attack":10,
+"defence":10,
+"name":"Some NPC"
+}
+]
